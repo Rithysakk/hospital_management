@@ -1,0 +1,204 @@
+[
+  {
+    "id": "P002",
+    "name": "dam",
+    "dateOfBirth": "2000-02-12T00:00:00.000",
+    "contact": "099887711",
+    "gender": "male",
+    "medicalRecords": [],
+    "appointments": [
+      {
+        "appointmentId": "",
+        "doctorId": "D001",
+        "start": "2025-11-07T11:30:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": "R002",
+    "roomNumber": "102",
+    "checkInDate": "2025-11-08T16:09:13.448828",
+    "checkOutDate": null
+  },
+  {
+    "id": "1762573588264",
+    "name": "sok",
+    "dateOfBirth": "2009-12-21T00:00:00.000",
+    "contact": "098776655",
+    "gender": "male",
+    "medicalRecords": [],
+    "appointments": [
+      {
+        "appointmentId": "003",
+        "doctorId": "D001",
+        "start": "2025-11-05T10:00:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": "R002",
+    "roomNumber": "102",
+    "checkInDate": "2025-11-08T10:48:42.209381",
+    "checkOutDate": "2025-11-08T10:49:18.111568"
+  },
+  {
+    "id": "sam",
+    "name": "sam",
+    "dateOfBirth": "2003-12-01T00:00:00.000",
+    "contact": "098999987",
+    "gender": "male",
+    "medicalRecords": [],
+    "appointments": [
+      {
+        "appointmentId": "",
+        "doctorId": "D001",
+        "start": "2025-11-08T13:00:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": "R010",
+    "roomNumber": "205",
+    "checkInDate": "2025-11-08T16:09:43.256808",
+    "checkOutDate": null
+  },
+  {
+    "id": "1762601444352",
+    "name": "doom",
+    "dateOfBirth": "2000-12-05T00:00:00.000",
+    "contact": "099887711",
+    "gender": "male",
+    "medicalRecords": [
+      {
+        "timestamp": "2025-11-08T18:32:36.248096",
+        "doctorId": "D001",
+        "text": "sick"
+      }
+    ],
+    "appointments": [
+      {
+        "appointmentId": "0000",
+        "doctorId": "D001",
+        "start": "2025-11-08T14:30:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": "R009",
+    "roomNumber": "204",
+    "checkInDate": "2025-11-08T18:33:29.380769",
+    "checkOutDate": null
+  },
+  {
+    "id": "braxy",
+    "name": "braxy",
+    "dateOfBirth": "2003-12-04T00:00:00.000",
+    "contact": "099887733",
+    "gender": "male ",
+    "medicalRecords": [
+      {
+        "timestamp": "2025-11-09T18:01:15.042106",
+        "doctorId": "D001",
+        "text": "sick"
+      },
+      {
+        "timestamp": "2025-11-09T18:20:00.568808",
+        "doctorId": "D001",
+        "text": "sick"
+      }
+    ],
+    "appointments": [
+      {
+        "appointmentId": "1111",
+        "doctorId": "D001",
+        "start": "2025-11-09T14:30:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": "R001",
+    "roomNumber": "101",
+    "checkInDate": "2025-11-09T18:45:09.558842",
+    "checkOutDate": null
+  },
+  {
+    "id": "1762688936217",
+    "name": "pain",
+    "dateOfBirth": "2000-12-09T00:00:00.000",
+    "contact": "099887711",
+    "gender": "male",
+    "medicalRecords": [],
+    "appointments": [],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  },
+  {
+    "id": "1762766963121",
+    "name": "",
+    "dateOfBirth": "1970-01-01T00:00:00.000",
+    "contact": "",
+    "gender": "",
+    "medicalRecords": [],
+    "appointments": [],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  },
+  {
+    "id": "1762772924513",
+    "name": "",
+    "dateOfBirth": "1970-01-01T00:00:00.000",
+    "contact": "",
+    "gender": "",
+    "medicalRecords": [],
+    "appointments": [],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  },
+  {
+    "id": "1762773259531",
+    "name": "",
+    "dateOfBirth": "1970-01-01T00:00:00.000",
+    "contact": "",
+    "gender": "",
+    "medicalRecords": [],
+    "appointments": [],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  },
+  {
+    "id": "1762773358744",
+    "name": "",
+    "dateOfBirth": "1970-01-01T00:00:00.000",
+    "contact": "",
+    "gender": "",
+    "medicalRecords": [],
+    "appointments": [],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  },
+  {
+    "id": "1762773383864",
+    "name": "",
+    "dateOfBirth": "1970-01-01T00:00:00.000",
+    "contact": "",
+    "gender": "",
+    "medicalRecords": [],
+    "appointments": [
+      {
+        "appointmentId": "",
+        "doctorId": "D002",
+        "start": "2025-11-07T14:30:00.000",
+        "status": "scheduled"
+      }
+    ],
+    "roomId": null,
+    "roomNumber": null,
+    "checkInDate": null,
+    "checkOutDate": null
+  }
+]

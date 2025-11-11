@@ -1,0 +1,8 @@
+name: hospital_management_system
+description: A simple hospital management system in Dart using OOP and layered architecture.
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  # no external deps for now
+dev_dependencies:
+  test: ^1.21.0

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "R001",
+    "number": "101",
+    "occupied": true
+  },
+  {
+    "id": "R002",
+    "number": "102",
+    "occupied": true
+  },
+  {
+    "id": "R003",
+    "number": "103",
+    "occupied": false
+  },
+  {
+    "id": "R004",
+    "number": "104",
+    "occupied": false
+  },
+  {
+    "id": "R005",
+    "number": "105",
+    "occupied": false
+  },
+  {
+    "id": "R006",
+    "number": "201",
+    "occupied": false
+  },
+  {
+    "id": "R007",
+    "number": "202",
+    "occupied": false
+  },
+  {
+    "id": "R008",
+    "number": "203",
+    "occupied": false
+  },
+  {
+    "id": "R009",
+    "number": "204",
+    "occupied": true
+  },
+  {
+    "id": "R010",
+    "number": "205",
+    "occupied": true
+  }
+]
